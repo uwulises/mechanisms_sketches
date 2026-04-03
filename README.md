@@ -3,6 +3,8 @@ For ME3250 - Kinematics &amp; Dynamics of Mechanisms
 
 Check `graficas_cinematica.svg` for more exportable mechanisms
 
+<img src= graficas_cinematica.png  width=400>
+
 
 ## Unit - CAM design
 

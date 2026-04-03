@@ -14,7 +14,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
-   sodipodi:docname="graficas_cinematica.svg">
+   sodipodi:docname="graficas_cinematica.svg"
+   inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\graficas_cinematica.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs2">
     <marker
@@ -186,7 +189,7 @@
        inkscape:collect="always">
       <path
          transform="matrix(-0.4,0,0,-0.4,-4,0)"
-         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt;stroke-opacity:1"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path11419" />
     </marker>
@@ -201,7 +204,7 @@
        inkscape:collect="always">
       <path
          transform="matrix(-0.4,0,0,-0.4,-4,0)"
-         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt;stroke-opacity:1"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path9148" />
     </marker>
@@ -3348,11 +3351,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="9825.6413"
-     inkscape:cy="4725.1056"
+     inkscape:zoom="0.088388348"
+     inkscape:cx="5783.9767"
+     inkscape:cy="3751.8718"
      inkscape:document-units="mm"
-     inkscape:current-layer="g12579-0-6"
+     inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      showguides="false"
@@ -8356,7 +8359,10 @@
        style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="734.37183"
        y="773.86194"
-       id="text3208-4-05-0-0"><tspan
+       id="text3208-4-05-0-0"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Kinematics\six_body_linkage_one_slider.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
          sodipodi:role="line"
          id="tspan3206-5-8-8-4"
          x="734.37183"
@@ -8367,7 +8373,10 @@
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="803.82788"
        y="776.54895"
-       id="text3208-4-1-2"><tspan
+       id="text3208-4-1-2"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Kinematics\six_body_linkage_one_slider.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
          sodipodi:role="line"
          id="tspan3206-5-3-5"
          x="803.82788"
@@ -8378,7 +8387,10 @@
        style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="772.47021"
        y="713.09979"
-       id="text3208-4-0-1-1"><tspan
+       id="text3208-4-0-1-1"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Kinematics\six_body_linkage_one_slider.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
          sodipodi:role="line"
          id="tspan3206-5-1-3-6"
          x="772.47021"
@@ -8389,7 +8401,10 @@
        style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="824.68207"
        y="698.57758"
-       id="text3208-4-05-0-2"><tspan
+       id="text3208-4-05-0-2"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Kinematics\six_body_linkage_one_slider.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
          sodipodi:role="line"
          id="tspan3206-5-8-8-42"
          x="824.68207"
@@ -8400,7 +8415,10 @@
        style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="875.43671"
        y="690.42047"
-       id="text3208-4-05-0-2-6"><tspan
+       id="text3208-4-05-0-2-6"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Kinematics\six_body_linkage_one_slider.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
          sodipodi:role="line"
          id="tspan3206-5-8-8-42-4"
          x="875.43671"
@@ -8411,7 +8429,10 @@
        style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="900.60626"
        y="768.1803"
-       id="text3208-4-05-0-2-6-3"><tspan
+       id="text3208-4-05-0-2-6-3"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Kinematics\six_body_linkage_one_slider.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
          sodipodi:role="line"
          id="tspan3206-5-8-8-42-4-4"
          x="900.60626"
@@ -8419,7 +8440,10 @@
          style="font-size:6.35px;stroke-width:0.264583">F</tspan></text>
     <g
        id="g3608"
-       transform="translate(95.809373,-251.36214)">
+       transform="translate(95.809373,-251.36214)"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Kinematics\six_body_linkage_one_slider.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
       <circle
          style="fill:none;stroke:#000000;stroke-width:0.635572;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path3551"
@@ -8443,13 +8467,19 @@
        id="path3551-5"
        cx="768.0744"
        cy="767.01233"
-       r="4.5395865" />
+       r="4.5395865"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Kinematics\six_body_linkage_one_slider.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="765.99005"
        y="769.2832"
-       id="text3208-4-1-2-7-1"><tspan
+       id="text3208-4-1-2-7-1"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Kinematics\six_body_linkage_one_slider.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
          sodipodi:role="line"
          id="tspan3206-5-3-5-6-6"
          x="765.99005"
@@ -8460,13 +8490,19 @@
        id="path3551-5-9"
        cx="796.24933"
        cy="742.3678"
-       r="4.5395865" />
+       r="4.5395865"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Kinematics\six_body_linkage_one_slider.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="794.16498"
        y="744.63867"
-       id="text3208-4-1-2-7-1-7"><tspan
+       id="text3208-4-1-2-7-1-7"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Kinematics\six_body_linkage_one_slider.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
          sodipodi:role="line"
          id="tspan3206-5-3-5-6-6-1"
          x="794.16498"
@@ -8477,13 +8513,19 @@
        id="path3551-5-9-5"
        cx="802.79749"
        cy="704.01459"
-       r="4.5395865" />
+       r="4.5395865"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Kinematics\six_body_linkage_one_slider.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="800.71313"
        y="706.28552"
-       id="text3208-4-1-2-7-1-7-7"><tspan
+       id="text3208-4-1-2-7-1-7-7"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Kinematics\six_body_linkage_one_slider.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
          sodipodi:role="line"
          id="tspan3206-5-3-5-6-6-1-4"
          x="800.71313"
@@ -8494,13 +8536,19 @@
        id="path3551-5-9-9"
        cx="903.59344"
        cy="724.54974"
-       r="4.5395865" />
+       r="4.5395865"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Kinematics\six_body_linkage_one_slider.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="901.50909"
        y="726.82062"
-       id="text3208-4-1-2-7-1-7-2"><tspan
+       id="text3208-4-1-2-7-1-7-2"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Kinematics\six_body_linkage_one_slider.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
          sodipodi:role="line"
          id="tspan3206-5-3-5-6-6-1-7"
          x="901.50909"
@@ -8511,13 +8559,19 @@
        id="path3551-5-9-2"
        cx="902.88989"
        cy="775.1084"
-       r="4.5395865" />
+       r="4.5395865"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Kinematics\six_body_linkage_one_slider.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="900.80554"
        y="777.37927"
-       id="text3208-4-1-2-7-1-7-4"><tspan
+       id="text3208-4-1-2-7-1-7-4"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Kinematics\six_body_linkage_one_slider.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
          sodipodi:role="line"
          id="tspan3206-5-3-5-6-6-1-9"
          x="900.80554"
@@ -8525,7 +8579,10 @@
          style="font-size:6.35px;stroke-width:0.264583">6</tspan></text>
     <g
        id="g2394-5"
-       transform="translate(667.35088,627.96619)">
+       transform="translate(667.35088,627.96619)"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Kinematics\six_body_linkage_one_slider.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
       <path
          style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 67.318099,157.98062 -3.684391,6.38155"
@@ -8571,7 +8628,10 @@
     </g>
     <g
        id="g2267-3"
-       transform="translate(554.86876,731.76054)">
+       transform="translate(554.86876,731.76054)"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Kinematics\six_body_linkage_one_slider.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
       <path
          style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 183.48692,54.182724 6.87834,-11.15767 7.05708,11.16185 z"
@@ -8590,7 +8650,10 @@
     </g>
     <g
        id="g2394-5-3"
-       transform="translate(751.59853,560.28255)">
+       transform="translate(751.59853,560.28255)"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Kinematics\six_body_linkage_one_slider.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
       <path
          style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 67.318099,157.98062 -3.684391,6.38155"
@@ -8636,7 +8699,10 @@
     </g>
     <g
        id="g2267-3-3"
-       transform="translate(639.11641,664.0769)">
+       transform="translate(639.11641,664.0769)"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Kinematics\six_body_linkage_one_slider.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
       <path
          style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 183.48692,54.182724 6.87834,-11.15767 7.05708,11.16185 z"
@@ -8655,7 +8721,10 @@
     </g>
     <g
        id="g2394-5-3-8"
-       transform="rotate(-90,801.1676,42.021893)">
+       transform="rotate(-90,801.1676,42.021893)"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Kinematics\six_body_linkage_one_slider.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
       <path
          style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 67.318099,157.98062 -3.684391,6.38155"
@@ -8705,20 +8774,32 @@
        width="8.7588444"
        height="17.7391"
        x="908.36749"
-       y="758.13226" />
+       y="758.13226"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Kinematics\six_body_linkage_one_slider.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 781.28323,718.43001 96.91003,-22.84387"
-       id="path3290" />
+       id="path3290"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Kinematics\six_body_linkage_one_slider.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 795.64347,774.78559 781.28323,718.43"
        id="path3292"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Kinematics\six_body_linkage_one_slider.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 878.19325,695.58614 34.33173,71.1032"
-       id="path3294" />
+       id="path3294"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Kinematics\six_body_linkage_one_slider.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <circle
        style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.442518;stroke-linejoin:round"
        id="path16-3-98-7-4-5-2-44"
@@ -8726,7 +8807,8 @@
        cy="718.04626"
        r="2.5945742"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Kinematics\six_body_linkage_one_slider.png" />
     <circle
        style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.442518;stroke-linejoin:round"
        id="path16-3-98-7-4-5-2-28"
@@ -8734,7 +8816,8 @@
        cy="696.23932"
        r="2.5945742"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Kinematics\six_body_linkage_one_slider.png" />
     <circle
        style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.442518;stroke-linejoin:round"
        id="path16-3-98-7-4-5-2-52"
@@ -8742,11 +8825,15 @@
        cy="766.08929"
        r="2.5945742"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Kinematics\six_body_linkage_one_slider.png" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 745.23402,774.78559 h 50.40945"
-       id="path3343" />
+       id="path3343"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Kinematics\six_body_linkage_one_slider.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <circle
        style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.442518;stroke-linejoin:round"
        id="path16-3-98-7-4-5-2-44-2"
@@ -8754,7 +8841,8 @@
        cy="774.55603"
        r="2.5945742"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Kinematics\six_body_linkage_one_slider.png" />
     <g
        id="g4285"
        transform="translate(5.2916666,13.45595)">
@@ -11205,7 +11293,8 @@
        y="410.79361"
        id="text3272-9-42-79"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200"><tspan
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Virtual_Work_Method\four_body_two_sliders.png"><tspan
          sodipodi:role="line"
          id="tspan3270-9-23-7"
          x="1614.2241"
@@ -11218,7 +11307,8 @@
        d="m 1614.903,401.05459 h 8.1444"
        id="path3349-9-4-0"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Virtual_Work_Method\four_body_two_sliders.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
@@ -11226,7 +11316,8 @@
        y="318.28683"
        id="text3272-9-42-9-6"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200"><tspan
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Virtual_Work_Method\four_body_two_sliders.png"><tspan
          sodipodi:role="line"
          id="tspan3270-9-23-1-14"
          x="1754.9509"
@@ -11239,7 +11330,8 @@
        d="m 1755.6297,308.5478 h 8.1445"
        id="path3349-9-4-5-7"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Virtual_Work_Method\four_body_two_sliders.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
@@ -11247,7 +11339,8 @@
        y="412.2666"
        id="text3272-9-42-9-5-7"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200"><tspan
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Virtual_Work_Method\four_body_two_sliders.png"><tspan
          sodipodi:role="line"
          id="tspan3270-9-23-1-1-8"
          x="1699.2155"
@@ -11260,7 +11353,8 @@
        d="m 1699.8942,402.52758 h 8.1445"
        id="path3349-9-4-5-3-3"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Virtual_Work_Method\four_body_two_sliders.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
@@ -11268,7 +11362,8 @@
        y="384.14642"
        id="text3272-9-42-7-9"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200"><tspan
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Virtual_Work_Method\four_body_two_sliders.png"><tspan
          sodipodi:role="line"
          id="tspan3270-9-23-9-8"
          x="1725.3655"
@@ -11283,7 +11378,8 @@
        y="404.72104"
        id="text3272-9-42-7-5-6"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200"><tspan
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Virtual_Work_Method\four_body_two_sliders.png"><tspan
          sodipodi:role="line"
          id="tspan3270-9-23-9-0-9"
          x="1659.3323"
@@ -11296,7 +11392,8 @@
        y="341.67731"
        id="text3272-9-42-7-5-7-08"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200"><tspan
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Virtual_Work_Method\four_body_two_sliders.png"><tspan
          sodipodi:role="line"
          id="tspan3270-9-23-9-0-0-4"
          x="1755.9015"
@@ -11309,7 +11406,8 @@
        y="414.06293"
        id="text3272-9-42-7-5-7-0-59"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200"><tspan
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Virtual_Work_Method\four_body_two_sliders.png"><tspan
          sodipodi:role="line"
          id="tspan3270-9-23-9-0-0-3-82"
          x="1650.9614"
@@ -11322,7 +11420,8 @@
        y="427.96863"
        id="text3272-9-42-7-5-7-0-5-1"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200"><tspan
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Virtual_Work_Method\four_body_two_sliders.png"><tspan
          sodipodi:role="line"
          id="tspan3270-9-23-9-0-0-3-7-2"
          x="1686.5321"
@@ -11335,7 +11434,8 @@
        y="367.7016"
        id="text3272-9-42-7-5-7-0-54-6"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200"><tspan
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Virtual_Work_Method\four_body_two_sliders.png"><tspan
          sodipodi:role="line"
          id="tspan3270-9-23-9-0-0-3-5-7"
          x="1720.5829"
@@ -11348,7 +11448,8 @@
        y="353.22754"
        id="text3272-9-42-7-5-7-0-9-2"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200"><tspan
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Virtual_Work_Method\four_body_two_sliders.png"><tspan
          sodipodi:role="line"
          id="tspan3270-9-23-9-0-0-3-8-1"
          x="1768.1764"
@@ -11357,20 +11458,30 @@
     <path
        style="fill:none;stroke:#0000ff;stroke-width:0.758977;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker4034-1-4)"
        d="m 1679.6576,411.43131 h 19.3564"
-       id="path4018-2-3" />
+       id="path4018-2-3"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Virtual_Work_Method\four_body_two_sliders.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.758977;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker4034-1-1-9)"
        d="m 1773.1286,323.78826 v -19.3564"
-       id="path4018-2-2-6" />
+       id="path4018-2-2-6"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Virtual_Work_Method\four_body_two_sliders.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.759;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker4034-1-5-9)"
        d="m 1625.3701,414.60633 h 19.3564"
-       id="path4018-2-7-4" />
+       id="path4018-2-7-4"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Virtual_Work_Method\four_body_two_sliders.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <g
        id="g2321-3-3-0"
        transform="translate(1576.9333,263.57197)"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200">
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Virtual_Work_Method\four_body_two_sliders.png">
       <path
          style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 67.318099,157.98062 -3.684391,6.38155"
@@ -11442,7 +11553,8 @@
        id="g2321-3-3-5-7"
        transform="rotate(-90,1024.669,-596.94636)"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200">
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Virtual_Work_Method\four_body_two_sliders.png">
       <path
          style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 67.318099,157.98062 -3.684391,6.38155"
@@ -11518,7 +11630,8 @@
        x="1648.6194"
        y="407.2399"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Virtual_Work_Method\four_body_two_sliders.png" />
     <rect
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
        id="rect6360-8-2"
@@ -11528,7 +11641,8 @@
        y="1765.2833"
        transform="rotate(-90)"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Virtual_Work_Method\four_body_two_sliders.png" />
     <circle
        style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.442518;stroke-linejoin:round"
        id="path16-3-98-7-4-5-2-93-8"
@@ -11536,7 +11650,8 @@
        cy="414.69592"
        r="2.5945742"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Virtual_Work_Method\four_body_two_sliders.png" />
     <circle
        style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.442518;stroke-linejoin:round"
        id="path16-3-98-7-4-5-2-93-3-3"
@@ -11544,13 +11659,15 @@
        cy="341.57178"
        r="2.5945742"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Virtual_Work_Method\four_body_two_sliders.png" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 1663.0161,414.65172 109.5375,-73.025"
        id="path6422-6"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Virtual_Work_Method\four_body_two_sliders.png" />
     <circle
        style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.442518;stroke-linejoin:round"
        id="path16-3-98-7-4-5-2-93-4-6"
@@ -11558,11 +11675,15 @@
        cy="374.439"
        r="2.5945742"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Virtual_Work_Method\four_body_two_sliders.png" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:1"
        d="m 1772.5536,341.62671 v 73.71014"
-       id="path13701" />
+       id="path13701"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Virtual_Work_Method\four_body_two_sliders.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <circle
        style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.442518;stroke-linejoin:round"
        id="path16-3-98-7-4-5-2-93-4-6-2"
@@ -11570,25 +11691,36 @@
        cy="414.27136"
        r="2.5945742"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Virtual_Work_Method\four_body_two_sliders.png" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.967621;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.90286, 0.967621;stroke-dashoffset:0;stroke-opacity:1"
        d="m 1663.016,414.65171 h 109.8453"
-       id="path13657" />
+       id="path13657"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Virtual_Work_Method\four_body_two_sliders.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <path
        style="fill:none;stroke:#00ff00;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker13843)"
        d="M 1772.8613,414.65171 V 397.80104"
-       id="path13831" />
+       id="path13831"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Virtual_Work_Method\four_body_two_sliders.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <path
        style="fill:none;stroke:#ff0000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker14408)"
        d="m 1772.8613,414.65171 h 17.1773"
-       id="path13833" />
+       id="path13833"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Virtual_Work_Method\four_body_two_sliders.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.45279px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker7661-0-4-6-2)"
        d="m 1691.2005,413.35084 c 0,0 4.9889,-8.58798 -3.8643,-13.82565"
        id="path7418-3-0-8-0"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Virtual_Work_Method\four_body_two_sliders.png" />
     <text
        xml:space="preserve"
        style="font-size:10.5833px;line-height:1.25;font-family:Symbol;-inkscape-font-specification:Symbol;stroke-width:0.264583"
@@ -11596,7 +11728,8 @@
        y="410.69086"
        id="text5350-5-1-7-5-0"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200"><tspan
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Virtual_Work_Method\four_body_two_sliders.png"><tspan
          sodipodi:role="line"
          id="tspan5348-4-6-1-5-8"
          x="1683.8546"
@@ -13299,7 +13432,8 @@
        cy="1060.7379"
        r="4.5395865"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -13307,7 +13441,8 @@
        y="1062.4634"
        id="text3208-4-1-2-7-1-7-3-9-1-2-3"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200"><tspan
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png"><tspan
          sodipodi:role="line"
          x="811.07477"
          y="1062.4634"
@@ -13320,7 +13455,8 @@
        cy="1077.3043"
        r="4.5395865"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -13328,7 +13464,8 @@
        y="1079.0298"
        id="text3208-4-1-2-7-1-7-3-9-1-2-3-5"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200"><tspan
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png"><tspan
          sodipodi:role="line"
          x="1098.8956"
          y="1079.0298"
@@ -13339,55 +13476,64 @@
        d="m 909.61584,1095.566 v -70.6057"
        id="path5252-5"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker5256-6-3);marker-end:url(#marker5256-6-3)"
        d="M 909.61584,1021.786 V 982.69855"
        id="path5252-5-1"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker5256-6-4);marker-end:url(#marker5256-6-4)"
        d="m 909.61584,979.52415 v -87.5519"
        id="path5252-5-0"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker5256-6-4-1);marker-end:url(#marker5256-6-4-1)"
        d="M 1010.9715,987.50785 V 883.98855"
        id="path5252-5-0-9"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker5256-6-4-1-1);marker-end:url(#marker5256-6-4-1-1)"
        d="M 1010.9715,1164.478 V 990.75775"
        id="path5252-5-0-9-0"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 909.65124,935.74825 H 1010.6792"
        id="path27207"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 909.65124,1060.2632 h -88.3059"
        id="path27233"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 910.02544,1003.1146 h 45.2754"
        id="path27259"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1.55427;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 954.92674,925.26145 V 1078.3244"
        id="path27261"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png" />
     <ellipse
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.690103;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
        id="path27263"
@@ -13396,7 +13542,8 @@
        rx="2.2227921"
        ry="2.2227931"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png" />
     <ellipse
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.690103;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
        id="path27263-5"
@@ -13405,7 +13552,8 @@
        rx="2.2227921"
        ry="2.2227931"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png" />
     <ellipse
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.690103;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
        id="path27263-1"
@@ -13414,7 +13562,8 @@
        rx="2.2227921"
        ry="2.2227931"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png" />
     <ellipse
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.690103;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
        id="path27263-5-3"
@@ -13423,13 +13572,15 @@
        rx="2.2227921"
        ry="2.2227931"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1.58593;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 1093.523,1077.6179 H 954.21764"
        id="path27309"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png" />
     <ellipse
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.690103;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
        id="path27263-4"
@@ -13438,7 +13589,8 @@
        rx="2.2227921"
        ry="2.2227931"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png" />
     <ellipse
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.690103;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
        id="path27263-5-5"
@@ -13447,12 +13599,14 @@
        rx="2.2227921"
        ry="2.2227931"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png" />
     <g
        id="g2394-73"
        transform="rotate(180,466.41878,607.97616)"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200">
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png">
       <path
          style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 67.318099,157.98062 -3.684391,6.38155"
@@ -13500,7 +13654,8 @@
        id="g2394-75"
        transform="translate(775.57694,904.83235)"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200">
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png">
       <path
          style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 67.318099,157.98062 -3.684391,6.38155"
@@ -13548,7 +13703,8 @@
        id="g2394-73-5"
        transform="rotate(180,567.91596,616.54756)"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200">
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png">
       <path
          style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 67.318099,157.98062 -3.684391,6.38155"
@@ -13596,7 +13752,8 @@
        id="g2394-75-4"
        transform="translate(978.57134,921.97515)"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200">
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png">
       <path
          style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 67.318099,157.98062 -3.684391,6.38155"
@@ -13644,7 +13801,8 @@
        id="g2394-73-4"
        transform="rotate(-90,982.50534,127.38584)"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200">
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png">
       <path
          style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 67.318099,157.98062 -3.684391,6.38155"
@@ -13692,7 +13850,8 @@
        id="g2394-75-8"
        transform="rotate(90,107.42701,1059.5282)"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200">
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png">
       <path
          style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 67.318099,157.98062 -3.684391,6.38155"
@@ -13740,7 +13899,8 @@
        id="g2394-73-4-6"
        transform="rotate(-90,1028.8056,173.77597)"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200">
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png">
       <path
          style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 67.318099,157.98062 -3.684391,6.38155"
@@ -13788,7 +13948,8 @@
        id="g2394-75-8-6"
        transform="rotate(90,61.036881,1105.8285)"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200">
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png">
       <path
          style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 67.318099,157.98062 -3.684391,6.38155"
@@ -13839,7 +14000,8 @@
        cy="1049.3256"
        r="4.5395865"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -13847,7 +14009,8 @@
        y="1051.682"
        id="text3208-4-1-2-7-1-7-3-9-1-2-3-9"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200"><tspan
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png"><tspan
          sodipodi:role="line"
          x="914.34772"
          y="1051.682"
@@ -13860,7 +14023,8 @@
        cy="999.37292"
        r="4.5395865"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -13868,7 +14032,8 @@
        y="1001.7294"
        id="text3208-4-1-2-7-1-7-3-9-1-2-3-9-7"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200"><tspan
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png"><tspan
          sodipodi:role="line"
          x="893.76801"
          y="1001.7294"
@@ -13881,7 +14046,8 @@
        cy="938.7561"
        r="4.5395865"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -13889,7 +14055,8 @@
        y="941.06445"
        id="text3208-4-1-2-7-1-7-3-9-1-2-3-9-1"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200"><tspan
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png"><tspan
          sodipodi:role="line"
          x="892.64545"
          y="941.06445"
@@ -13902,7 +14069,8 @@
        cy="975.91321"
        r="4.5395865"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -13910,7 +14078,8 @@
        y="978.26965"
        id="text3208-4-1-2-7-1-7-3-9-1-2-3-9-9"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200"><tspan
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png"><tspan
          sodipodi:role="line"
          x="959.58881"
          y="978.26965"
@@ -13923,7 +14092,8 @@
        cy="938.7561"
        r="4.5395865"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -13931,7 +14101,8 @@
        y="941.05981"
        id="text3208-4-1-2-7-1-7-3-9-1-2-3-9-0"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200"><tspan
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png"><tspan
          sodipodi:role="line"
          x="1023.1809"
          y="941.05981"
@@ -13944,7 +14115,8 @@
        cy="1004.9856"
        r="4.5395865"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -13952,7 +14124,8 @@
        y="1007.342"
        id="text3208-4-1-2-7-1-7-3-9-1-2-3-9-2"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200"><tspan
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png"><tspan
          sodipodi:role="line"
          x="1017.0594"
          y="1007.342"
@@ -22637,33 +22810,38 @@
        sodipodi:arc-type="arc"
        d="m 2817.6071,917.34114 a 100,100 0 0 1 -74.1891,120.20556 100,100 0 0 1 -120.3781,-73.90874 100,100 0 0 1 73.6281,-120.55001 100,100 0 0 1 120.7212,73.34701"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\CAM_design\flat_follower_cycloidal_cam.png" />
     <path
        id="path17753"
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 2619.9897,939.93347 c 0.2162,-78.52084 20.6405,-189.53042 83.3718,-210.28768"
        sodipodi:nodetypes="cc"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\CAM_design\flat_follower_cycloidal_cam.png" />
     <path
        id="path17755"
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 2703.3615,729.64579 c 113.2437,-20.50509 146.0736,226.76446 96.5016,272.02691"
        sodipodi:nodetypes="cc"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\CAM_design\flat_follower_cycloidal_cam.png" />
     <path
        style="display:inline;fill:none;stroke:#00ff00;stroke-width:1.34726;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker13843-2-7)"
        d="M 2720.1967,940.59105 V 910.00541"
        id="path13831-8-9"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\CAM_design\flat_follower_cycloidal_cam.png" />
     <path
        style="display:inline;fill:none;stroke:#ff0000;stroke-width:1.31264;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker14408-7-1)"
        d="m 2720.1967,940.59105 h 29.597"
        id="path13833-1-0"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\CAM_design\flat_follower_cycloidal_cam.png" />
     <circle
        style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.442518;stroke-linejoin:round"
        id="path16-3-98-7-4-5-2-591"
@@ -22671,7 +22849,8 @@
        cy="940.2627"
        r="2.5945742"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\CAM_design\flat_follower_cycloidal_cam.png" />
     <text
        xml:space="preserve"
        style="font-size:10.5833px;line-height:1.25;font-family:'Script MT Bold';-inkscape-font-specification:'Script MT Bold, ';stroke-width:0.264583"
@@ -22679,7 +22858,8 @@
        y="953.02966"
        id="text19689"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200"><tspan
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\CAM_design\flat_follower_cycloidal_cam.png"><tspan
          sodipodi:role="line"
          id="tspan19687"
          x="2741.2234"
@@ -22692,7 +22872,8 @@
        y="922.72131"
        id="text19693"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200"><tspan
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\CAM_design\flat_follower_cycloidal_cam.png"><tspan
          sodipodi:role="line"
          id="tspan19691"
          x="2707.5471"
@@ -22705,30 +22886,35 @@
        cy="858.36279"
        r="2.5945742"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\CAM_design\flat_follower_cycloidal_cam.png" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker19725);stroke-miterlimit:4;stroke-dasharray:none"
        d="m 2720.1948,940.59382 94.0031,-80.74245"
        id="path19715"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\CAM_design\flat_follower_cycloidal_cam.png" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#marker22882)"
        d="m 2720.1947,940.59382 35.7053,-93.398"
        id="path21088"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\CAM_design\flat_follower_cycloidal_cam.png" />
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker22882-2)"
        d="m 2720.1967,940.59105 -35.7053,93.39805"
        id="path21088-3"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\CAM_design\flat_follower_cycloidal_cam.png" />
     <g
        id="g26502"
        transform="matrix(1.3158062,-0.1382968,0.1382968,1.3158062,-983.10606,98.30492)"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200">
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\CAM_design\flat_follower_cycloidal_cam.png">
       <text
          xml:space="preserve"
          style="font-size:10.5833px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
@@ -22763,7 +22949,8 @@
        y="1287.2668"
        transform="rotate(-10)"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\CAM_design\flat_follower_cycloidal_cam.png" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.834856;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
        id="rect26536"
@@ -22773,7 +22960,8 @@
        y="1342.8851"
        transform="rotate(-10)"
        inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\CAM_design\flat_follower_cycloidal_cam.png" />
     <circle
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.635572;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path3551-5-9-52-0-1-4-2-6"
@@ -22782,7 +22970,7 @@
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
        r="4.5395865"
-       inkscape:export-filename="C:\Users\Administrador\Desktop\planetario_perrito.png" />
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -22791,7 +22979,7 @@
        id="text3208-4-1-2-7-1-7-3-9-1-2-3-1"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="C:\Users\Administrador\Desktop\planetario_perrito.png"><tspan
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png"><tspan
          sodipodi:role="line"
          x="2594.0615"
          y="1312.2441"
@@ -22803,35 +22991,35 @@
        id="path5252-5-6"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="C:\Users\Administrador\Desktop\planetario_perrito.png" />
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png" />
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker5256-6-3-5);marker-end:url(#marker5256-6-3-5)"
        d="m 2633.3502,1269.6411 v -80.7795"
        id="path5252-5-1-3"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="C:\Users\Administrador\Desktop\planetario_perrito.png" />
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png" />
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 2633.3856,1310.2633 h -24.6957"
        id="path27233-7"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="C:\Users\Administrador\Desktop\planetario_perrito.png" />
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png" />
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 2633.7598,1226.6562 h 26.2088"
        id="path27259-1"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="C:\Users\Administrador\Desktop\planetario_perrito.png" />
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png" />
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 2659.2142,1226.5297 v 84.5969"
        id="path27261-0"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="C:\Users\Administrador\Desktop\planetario_perrito.png" />
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png" />
     <ellipse
        style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.690103;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
        id="path27263-1-5"
@@ -22841,7 +23029,7 @@
        ry="2.2227931"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="C:\Users\Administrador\Desktop\planetario_perrito.png" />
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png" />
     <ellipse
        style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.690103;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
        id="path27263-5-3-7"
@@ -22851,28 +23039,28 @@
        ry="2.2227931"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="C:\Users\Administrador\Desktop\planetario_perrito.png" />
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png" />
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker5256-6-40-2);marker-end:url(#marker5256-6-40-2)"
        d="m 2689.144,1346.4294 v -70.6057"
        id="path5252-5-6-9"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="C:\Users\Administrador\Desktop\planetario_perrito.png" />
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png" />
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 2689.1795,1311.1266 h -30.7253"
        id="path27233-7-2"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="C:\Users\Administrador\Desktop\planetario_perrito.png" />
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png" />
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker5256-6-3-5-0);marker-end:url(#marker5256-6-3-5-0)"
        d="m 2689.144,1270.5317 v -80.7795"
        id="path5252-5-1-3-4"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="C:\Users\Administrador\Desktop\planetario_perrito.png" />
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png" />
     <ellipse
        style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.690103;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
        id="path27263-1-5-6"
@@ -22882,7 +23070,7 @@
        ry="2.2227931"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="C:\Users\Administrador\Desktop\planetario_perrito.png" />
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png" />
     <ellipse
        style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.690103;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
        id="path27263-5-3-7-2"
@@ -22892,28 +23080,28 @@
        ry="2.2227931"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="C:\Users\Administrador\Desktop\planetario_perrito.png" />
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png" />
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 2688.4201,1227.3485 h 29.7785"
        id="path27259-1-3"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="C:\Users\Administrador\Desktop\planetario_perrito.png" />
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png" />
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 2717.4463,1227.222 v 84.5969"
        id="path27261-0-3"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="C:\Users\Administrador\Desktop\planetario_perrito.png" />
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png" />
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 2749.2928,1311.8189 h -32.5946"
        id="path27233-7-2-7"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="C:\Users\Administrador\Desktop\planetario_perrito.png" />
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png" />
     <circle
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.635572;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path3551-5-9-52-0-1-4-2-6-5"
@@ -22922,7 +23110,7 @@
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
        r="4.5395865"
-       inkscape:export-filename="C:\Users\Administrador\Desktop\planetario_perrito.png" />
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -22931,7 +23119,7 @@
        id="text3208-4-1-2-7-1-7-3-9-1-2-3-1-3"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="C:\Users\Administrador\Desktop\planetario_perrito.png"><tspan
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png"><tspan
          sodipodi:role="line"
          x="2754.9968"
          y="1312.8828"
@@ -22946,7 +23134,7 @@
        ry="2.2227931"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="C:\Users\Administrador\Desktop\planetario_perrito.png" />
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png" />
     <ellipse
        style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.690103;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
        id="path27263-5-3-7-3"
@@ -22956,7 +23144,7 @@
        ry="2.2227931"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="C:\Users\Administrador\Desktop\planetario_perrito.png" />
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png" />
     <ellipse
        style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.690103;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
        id="path27263-1-5-64"
@@ -22966,7 +23154,7 @@
        ry="2.2227931"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="C:\Users\Administrador\Desktop\planetario_perrito.png" />
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png" />
     <ellipse
        style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.690103;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
        id="path27263-5-3-7-9"
@@ -22976,28 +23164,28 @@
        ry="2.2227931"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="C:\Users\Administrador\Desktop\planetario_perrito.png" />
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 2626.7249,1182.4004 h 68.4744"
        id="path18374"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="C:\Users\Administrador\Desktop\planetario_perrito.png" />
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 2662.7394,1182.5875 v -7.7642"
        id="path18376"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="C:\Users\Administrador\Desktop\planetario_perrito.png" />
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png" />
     <g
        id="g2394-57"
        transform="rotate(180,1369.8124,666.35545)"
        style="display:inline;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="C:\Users\Administrador\Desktop\planetario_perrito.png">
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png">
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
          d="m 67.318099,157.98062 -3.684391,6.38155"
@@ -23047,7 +23235,7 @@
        style="display:inline"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"
-       inkscape:export-filename="C:\Users\Administrador\Desktop\planetario_perrito.png">
+       inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png">
       <circle
          style="display:inline;fill:none;stroke:#000000;stroke-width:0.635572;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path3551-5-9-52-4-0-4-5"
@@ -23082,7 +23270,7 @@
          r="4.5395865"
          inkscape:export-xdpi="200"
          inkscape:export-ydpi="200"
-         inkscape:export-filename="C:\Users\Administrador\Desktop\planetario_perrito.png" />
+         inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -23091,7 +23279,7 @@
          id="text3208-4-1-2-7-1-7-3-5-5-2-4-7"
          inkscape:export-xdpi="200"
          inkscape:export-ydpi="200"
-         inkscape:export-filename="C:\Users\Administrador\Desktop\planetario_perrito.png"><tspan
+         inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png"><tspan
            sodipodi:role="line"
            id="tspan3206-5-3-5-6-6-1-1-3-3-7-69-0"
            x="-1305.4547"
@@ -23105,7 +23293,7 @@
          r="4.5395865"
          inkscape:export-xdpi="200"
          inkscape:export-ydpi="200"
-         inkscape:export-filename="C:\Users\Administrador\Desktop\planetario_perrito.png" />
+         inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -23114,7 +23302,7 @@
          id="text3208-4-1-2-7-1-7-3-5-5-2-4-7-8"
          inkscape:export-xdpi="200"
          inkscape:export-ydpi="200"
-         inkscape:export-filename="C:\Users\Administrador\Desktop\planetario_perrito.png"><tspan
+         inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png"><tspan
            sodipodi:role="line"
            id="tspan3206-5-3-5-6-6-1-1-3-3-7-69-0-5"
            x="-1255.5526"
@@ -23128,7 +23316,7 @@
          r="4.5395865"
          inkscape:export-xdpi="200"
          inkscape:export-ydpi="200"
-         inkscape:export-filename="C:\Users\Administrador\Desktop\planetario_perrito.png" />
+         inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -23137,7 +23325,7 @@
          id="text3208-4-1-2-7-1-7-3-5-5-2-4-7-8-4"
          inkscape:export-xdpi="200"
          inkscape:export-ydpi="200"
-         inkscape:export-filename="C:\Users\Administrador\Desktop\planetario_perrito.png"><tspan
+         inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png"><tspan
            sodipodi:role="line"
            id="tspan3206-5-3-5-6-6-1-1-3-3-7-69-0-5-6"
            x="-1225.3502"
@@ -23151,7 +23339,7 @@
          r="4.5395865"
          inkscape:export-xdpi="200"
          inkscape:export-ydpi="200"
-         inkscape:export-filename="C:\Users\Administrador\Desktop\planetario_perrito.png" />
+         inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -23160,7 +23348,7 @@
          id="text3208-4-1-2-7-1-7-3-5-5-2-4-7-8-2"
          inkscape:export-xdpi="200"
          inkscape:export-ydpi="200"
-         inkscape:export-filename="C:\Users\Administrador\Desktop\planetario_perrito.png"><tspan
+         inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png"><tspan
            sodipodi:role="line"
            id="tspan3206-5-3-5-6-6-1-1-3-3-7-69-0-5-8"
            x="-1226.0742"
@@ -23174,7 +23362,7 @@
          r="4.5395865"
          inkscape:export-xdpi="200"
          inkscape:export-ydpi="200"
-         inkscape:export-filename="C:\Users\Administrador\Desktop\planetario_perrito.png" />
+         inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -23183,7 +23371,7 @@
          id="text3208-4-1-2-7-1-7-3-5-5-2-4-7-8-8"
          inkscape:export-xdpi="200"
          inkscape:export-ydpi="200"
-         inkscape:export-filename="C:\Users\Administrador\Desktop\planetario_perrito.png"><tspan
+         inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png"><tspan
            sodipodi:role="line"
            id="tspan3206-5-3-5-6-6-1-1-3-3-7-69-0-5-2"
            x="-1195.9172"
@@ -23197,7 +23385,7 @@
          inkscape:export-xdpi="200"
          inkscape:export-ydpi="200"
          r="4.5395865"
-         inkscape:export-filename="C:\Users\Administrador\Desktop\planetario_perrito.png" />
+         inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -23206,7 +23394,7 @@
          id="text3208-4-1-2-7-1-7-3-5-5-2-4-7-4"
          inkscape:export-xdpi="200"
          inkscape:export-ydpi="200"
-         inkscape:export-filename="C:\Users\Administrador\Desktop\planetario_perrito.png"><tspan
+         inkscape:export-filename="C:\Users\Administrador\Desktop\mechanisms_sketches\Gear_Trains\two_stage_planetary_gearbox.png"><tspan
            sodipodi:role="line"
            id="tspan3206-5-3-5-6-6-1-1-3-3-7-69-0-51"
            x="-1286.6693"
