@@ -4375,6 +4375,49 @@
          d="M 0,5.65 V -5.65"
          id="path20656-4" />
     </marker>
+    <marker
+       style="overflow:visible"
+       id="marker7619-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path7617-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker4216-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4214-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5413-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5411-5" />
+    </marker>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -4383,11 +4426,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="621.47232"
-     inkscape:cy="6433.7866"
+     inkscape:zoom="1"
+     inkscape:cx="2292.526"
+     inkscape:cy="6340.2863"
      inkscape:document-units="mm"
-     inkscape:current-layer="g20320"
+     inkscape:current-layer="g7443-9"
      inkscape:document-rotation="0"
      showgrid="false"
      showguides="true"
@@ -4404,7 +4447,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -37992,5 +38035,536 @@
          style="stroke-width:0.303798">O<tspan
    style="font-size:7.29116px;stroke-width:0.303798"
    id="tspan6334-3-87-5">2</tspan></tspan></text>
+    <g
+       id="g18164"
+       inkscape:export-filename="C:\Users\Administrador\Desktop\ejercicio_rec.png"
+       inkscape:export-xdpi="200.02644"
+       inkscape:export-ydpi="200.02644">
+      <g
+         id="g7443-9"
+         style="display:inline"
+         transform="translate(375.3273,463.49485)">
+        <text
+           xml:space="preserve"
+           style="font-size:10.5833px;line-height:1.25;font-family:Symbol;-inkscape-font-specification:Symbol;stroke-width:0.264583"
+           x="160.65015"
+           y="1215.6274"
+           id="text5350-5-8-7-4-6"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200"
+           inkscape:export-filename="C:\Users\Administrador\Desktop\ejercicio_rec.png"><tspan
+             sodipodi:role="line"
+             id="tspan5348-4-0-5-4-9"
+             x="160.65015"
+             y="1215.6274"
+             style="stroke-width:0.264583">g</tspan></text>
+        <g
+           id="g2394-8-7"
+           transform="translate(70.163843,1073.3272)"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200"
+           inkscape:export-filename="C:\Users\Administrador\Desktop\ejercicio_rec.png">
+          <path
+             style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 67.318099,157.98062 -3.684391,6.38155"
+             id="path946-37-4-85-2"
+             inkscape:export-xdpi="200"
+             inkscape:export-ydpi="200" />
+          <path
+             style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 71.686199,158.07784 -3.68439,6.38154"
+             id="path946-8-33-4-92-4"
+             inkscape:export-xdpi="200"
+             inkscape:export-ydpi="200" />
+          <path
+             style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 76.885409,157.8876 -3.68439,6.38155"
+             id="path946-82-5-6-44-9"
+             inkscape:export-xdpi="200"
+             inkscape:export-ydpi="200" />
+          <path
+             style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 81.253509,157.98481 -3.68439,6.38155"
+             id="path946-8-8-7-0-9-3"
+             inkscape:export-xdpi="200"
+             inkscape:export-ydpi="200" />
+          <path
+             style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 84.940219,157.98125 -3.68439,6.38155"
+             id="path946-3-79-8-364-9"
+             inkscape:export-xdpi="200"
+             inkscape:export-ydpi="200" />
+          <path
+             style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 89.308319,158.07847 -3.68439,6.38154"
+             id="path946-8-3-8-9-66-4"
+             inkscape:export-xdpi="200"
+             inkscape:export-ydpi="200" />
+          <path
+             style="fill:none;stroke:#000000;stroke-width:0.117796px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="M 67.318099,157.98062 H 89.50821"
+             id="path845-1-4-2-3"
+             inkscape:export-xdpi="200"
+             inkscape:export-ydpi="200" />
+        </g>
+        <g
+           id="g2267-66-30"
+           transform="translate(-42.318278,1177.1215)"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200"
+           inkscape:export-filename="C:\Users\Administrador\Desktop\ejercicio_rec.png">
+          <path
+             style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 183.48692,54.182724 6.87834,-11.15767 7.05708,11.16185 z"
+             id="path10-4-5-6-1-6-68-7"
+             sodipodi:nodetypes="cccc"
+             inkscape:export-xdpi="200"
+             inkscape:export-ydpi="200" />
+          <circle
+             style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.442518;stroke-linejoin:round"
+             id="path16-3-98-7-4-5-9-59"
+             cx="190.35782"
+             cy="43.301151"
+             r="2.5945742"
+             inkscape:export-xdpi="200"
+             inkscape:export-ydpi="200" />
+        </g>
+        <rect
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1531-3-6"
+           width="25.532467"
+           height="10.859215"
+           x="293.2467"
+           y="1214.8971"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200"
+           inkscape:export-filename="C:\Users\Administrador\Desktop\ejercicio_rec.png" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 148.04698,1220.1465 c -0.71774,-1.6593 60.29113,-63.2453 60.29113,-63.2453"
+           id="path4080-82"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200"
+           sodipodi:nodetypes="cc"
+           inkscape:export-filename="C:\Users\Administrador\Desktop\ejercicio_rec.png" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 208.33811,1156.9012 97.64217,63.0732"
+           id="path4082-8"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200"
+           inkscape:export-filename="C:\Users\Administrador\Desktop\ejercicio_rec.png" />
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.442518;stroke-linejoin:round"
+           id="path16-3-98-7-4-5-2-01-7"
+           cx="306.40445"
+           cy="1220.473"
+           r="2.5945742"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200"
+           inkscape:export-filename="C:\Users\Administrador\Desktop\ejercicio_rec.png" />
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.442518;stroke-linejoin:round"
+           id="path16-3-98-7-4-5-2-40-7"
+           cx="208.97806"
+           cy="1157.1434"
+           r="2.5945742"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200"
+           inkscape:export-filename="C:\Users\Administrador\Desktop\ejercicio_rec.png" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.953775;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.8151, 0.953775;stroke-dashoffset:0;stroke-opacity:1"
+           d="M 148.04698,1220.1465 H 291.95736"
+           id="path4122-7"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200"
+           inkscape:export-filename="C:\Users\Administrador\Desktop\ejercicio_rec.png" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker7619-2)"
+           d="m 173.68861,1220.5036 c 0,0 5.55625,-9.7896 -9.525,-17.198"
+           id="path4126-4"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200"
+           inkscape:export-filename="C:\Users\Administrador\Desktop\ejercicio_rec.png" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker4216-4)"
+           d="m 253.3282,1219.7098 c 0,0 -7.14375,-17.1979 17.72708,-21.6958"
+           id="path4206-76"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200"
+           inkscape:export-filename="C:\Users\Administrador\Desktop\ejercicio_rec.png" />
+        <text
+           xml:space="preserve"
+           style="font-size:10.5833px;line-height:1.25;font-family:Symbol;-inkscape-font-specification:Symbol;stroke-width:0.264583"
+           x="263.30844"
+           y="1213.1138"
+           id="text5350-5-8-7-9"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200"
+           inkscape:export-filename="C:\Users\Administrador\Desktop\ejercicio_rec.png"><tspan
+             sodipodi:role="line"
+             id="tspan5348-4-0-5-5"
+             x="263.30844"
+             y="1213.1138"
+             style="stroke-width:0.264583">b</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:7.823px;line-height:1.25;font-family:sans-serif;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.195883;stroke-miterlimit:4;stroke-dasharray:none"
+           x="296.83368"
+           y="1223.7532"
+           id="text3272-9-42-7-5-6-6-9"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200"
+           inkscape:export-filename="C:\Users\Administrador\Desktop\ejercicio_rec.png"><tspan
+             sodipodi:role="line"
+             id="tspan3270-9-23-9-0-9-1-08"
+             x="296.83368"
+             y="1223.7532"
+             style="fill:#000000;fill-opacity:1;stroke-width:0.195883;stroke-miterlimit:4;stroke-dasharray:none">B</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+           x="206.00139"
+           y="1151.855"
+           id="text3272-9-42-7-5-6-6-7-6"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200"
+           inkscape:export-filename="C:\Users\Administrador\Desktop\ejercicio_rec.png"><tspan
+             sodipodi:role="line"
+             id="tspan3270-9-23-9-0-9-1-7-2"
+             x="206.00139"
+             y="1151.855"
+             style="fill:#000000;fill-opacity:1;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none">A</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+           x="139.00163"
+           y="1215.1852"
+           id="text3272-9-42-7-5-6-6-7-6-61-1"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200"
+           inkscape:export-filename="C:\Users\Administrador\Desktop\ejercicio_rec.png"><tspan
+             sodipodi:role="line"
+             id="tspan3270-9-23-9-0-9-1-7-0-0-8"
+             x="139.00163"
+             y="1215.1852"
+             style="fill:#000000;fill-opacity:1;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none">O<tspan
+   style="font-size:4.93889px"
+   id="tspan5306-3-34">2</tspan></tspan></text>
+        <path
+           id="path5403-7"
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5413-5)"
+           d="m 156.22611,1204.364 c -4.78696,-5.6253 -13.13986,-7.3931 -20.0257,-5.0978 -3.56661,1.2336 -7.1481,3.4925 -8.56907,7.155 -2.25068,5.3156 -1.63607,11.2637 -1.17089,16.8604"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200"
+           inkscape:export-filename="C:\Users\Administrador\Desktop\ejercicio_rec.png" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+           x="125.74805"
+           y="1196.8342"
+           id="text3272-9-42-7-5-6-6-7-6-61-5-8"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200"
+           inkscape:export-filename="C:\Users\Administrador\Desktop\ejercicio_rec.png"><tspan
+             sodipodi:role="line"
+             id="tspan3270-9-23-9-0-9-1-7-0-0-1-3"
+             x="125.74805"
+             y="1196.8342"
+             style="fill:#000000;fill-opacity:1;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none">T<tspan
+   style="font-size:4.93889px"
+   id="tspan5306-3-3-4">2</tspan></tspan></text>
+        <g
+           id="g3707-9-2-0"
+           transform="matrix(0.2902388,0,0,0.2902388,-168.2639,1205.6445)"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200"
+           inkscape:export-filename="C:\Users\Administrador\Desktop\ejercicio_rec.png">
+          <ellipse
+             style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.926;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path3647-5-4-2"
+             cx="1635.2893"
+             cy="51.119095"
+             rx="7"
+             ry="7.046771" />
+          <path
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 1635.0618,51.224627 7.3058,-0.04294 -1.1873,-4.190396 -4.3657,-2.94349 -1.7434,0.02453 z"
+             id="path3700-9-9-7" />
+          <path
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 1635.0618,51.224627 -6.9597,-0.04294 1.1693,3.882091 3.8821,2.99342 1.9177,0.187086 z"
+             id="path3702-4-70-5" />
+        </g>
+        <circle
+           style="fill:none;stroke:#000000;stroke-width:0.635572;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path3551-5-9-52-0-3-6"
+           cx="254.81476"
+           cy="1175.4781"
+           r="4.5395865"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200"
+           inkscape:export-filename="C:\Users\Administrador\Desktop\ejercicio_rec.png" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="252.77612"
+           y="1177.7865"
+           id="text3208-4-1-2-7-1-7-3-9-5-7"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200"
+           inkscape:export-filename="C:\Users\Administrador\Desktop\ejercicio_rec.png"><tspan
+             sodipodi:role="line"
+             id="tspan3206-5-3-5-6-6-1-1-4-3-2"
+             x="252.77612"
+             y="1177.7865"
+             style="font-size:6.35px;stroke-width:0.264583">3</tspan></text>
+        <circle
+           style="fill:none;stroke:#000000;stroke-width:0.635572;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path3551-5-9-52-4-6"
+           cx="163.63446"
+           cy="1186.3723"
+           r="4.5395865"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200"
+           inkscape:export-filename="C:\Users\Administrador\Desktop\ejercicio_rec.png" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="161.59583"
+           y="1188.6807"
+           id="text3208-4-1-2-7-1-7-3-5-1"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200"
+           inkscape:export-filename="C:\Users\Administrador\Desktop\ejercicio_rec.png"><tspan
+             sodipodi:role="line"
+             id="tspan3206-5-3-5-6-6-1-1-3-42"
+             x="161.59583"
+             y="1188.6807"
+             style="font-size:6.35px;stroke-width:0.264583">2</tspan></text>
+        <g
+           id="g17899"
+           transform="matrix(0.70041245,0,0,0.70041245,93.953202,365.87264)"
+           inkscape:export-filename="C:\Users\Administrador\Desktop\ejercicio_rec.png"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200">
+          <circle
+             style="fill:none;stroke:#000000;stroke-width:0.635572;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path3551-5-9-52-1-8"
+             cx="314.05008"
+             cy="1220.3713"
+             r="4.5395865"
+             inkscape:export-xdpi="200"
+             inkscape:export-ydpi="200" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             x="312.01144"
+             y="1222.6797"
+             id="text3208-4-1-2-7-1-7-3-6-0"
+             inkscape:export-xdpi="200"
+             inkscape:export-ydpi="200"><tspan
+               sodipodi:role="line"
+               id="tspan3206-5-3-5-6-6-1-1-5-4"
+               x="312.01144"
+               y="1222.6797"
+               style="font-size:6.35px;stroke-width:0.264583">4</tspan></text>
+        </g>
+        <g
+           id="g3707-9-2-0-8"
+           transform="matrix(0.2902388,0,0,0.2902388,-225.56322,1168.1998)"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200"
+           style="display:inline"
+           inkscape:export-filename="C:\Users\Administrador\Desktop\ejercicio_rec.png">
+          <ellipse
+             style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.926;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path3647-5-4-2-9"
+             cx="1635.2893"
+             cy="51.119095"
+             rx="7"
+             ry="7.046771" />
+          <path
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 1635.0618,51.224627 7.3058,-0.04294 -1.1873,-4.190396 -4.3657,-2.94349 -1.7434,0.02453 z"
+             id="path3700-9-9-7-4" />
+          <path
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 1635.0618,51.224627 -6.9597,-0.04294 1.1693,3.882091 3.8821,2.99342 1.9177,0.187086 z"
+             id="path3702-4-70-5-9" />
+        </g>
+        <g
+           id="g3707-9-2-0-0"
+           transform="matrix(0.2902388,0,0,0.2902388,-297.50171,1173.7268)"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200"
+           style="display:inline"
+           inkscape:export-filename="C:\Users\Administrador\Desktop\ejercicio_rec.png">
+          <ellipse
+             style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.926;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path3647-5-4-2-3"
+             cx="1635.2893"
+             cy="51.119095"
+             rx="7"
+             ry="7.046771" />
+          <path
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 1635.0618,51.224627 7.3058,-0.04294 -1.1873,-4.190396 -4.3657,-2.94349 -1.7434,0.02453 z"
+             id="path3700-9-9-7-9" />
+          <path
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 1635.0618,51.224627 -6.9597,-0.04294 1.1693,3.882091 3.8821,2.99342 1.9177,0.187086 z"
+             id="path3702-4-70-5-4" />
+        </g>
+      </g>
+      <g
+         id="g2321-3-41"
+         transform="rotate(180,385.49594,918.13977)"
+         style="display:inline"
+         inkscape:export-filename="C:\Users\Administrador\Desktop\ejercicio_rec.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 67.318099,157.98062 -3.684391,6.38155"
+           id="path946-37-4-2-7"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 71.686199,158.07784 -3.68439,6.38154"
+           id="path946-8-33-4-6-6"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 76.885409,157.8876 -3.68439,6.38155"
+           id="path946-82-5-6-5-30"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 81.253509,157.98481 -3.68439,6.38155"
+           id="path946-8-8-7-0-2-12"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 84.940219,157.98125 -3.68439,6.38155"
+           id="path946-3-79-8-6-5"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 89.308319,158.07847 -3.68439,6.38154"
+           id="path946-8-3-8-9-3-79"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 94.507529,157.88823 -3.68439,6.38155"
+           id="path946-82-7-5-3-0-1"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 98.875629,157.98544 -3.68438,6.38155"
+           id="path946-8-8-8-0-7-6-0"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 102.42548,158.26196 -3.684391,6.38153"
+           id="path946-6-9-5-5-9"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 106.79358,158.35917 -3.68438,6.38153"
+           id="path946-8-7-5-1-0-42"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.157466px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 67.318099,157.98062 H 106.97071"
+           id="path845-1-4-6-2"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200" />
+      </g>
+      <g
+         id="g2321-3-41-2"
+         transform="translate(599.59895,1531.363)"
+         style="display:inline"
+         inkscape:export-filename="C:\Users\Administrador\Desktop\ejercicio_rec.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 67.318099,157.98062 -3.684391,6.38155"
+           id="path946-37-4-2-7-0"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 71.686199,158.07784 -3.68439,6.38154"
+           id="path946-8-33-4-6-6-8"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 76.885409,157.8876 -3.68439,6.38155"
+           id="path946-82-5-6-5-30-1"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 81.253509,157.98481 -3.68439,6.38155"
+           id="path946-8-8-7-0-2-12-6"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 84.940219,157.98125 -3.68439,6.38155"
+           id="path946-3-79-8-6-5-6"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 89.308319,158.07847 -3.68439,6.38154"
+           id="path946-8-3-8-9-3-79-8"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 94.507529,157.88823 -3.68439,6.38155"
+           id="path946-82-7-5-3-0-1-5"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 98.875629,157.98544 -3.68438,6.38155"
+           id="path946-8-8-8-0-7-6-0-6"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 102.42548,158.26196 -3.684391,6.38153"
+           id="path946-6-9-5-5-9-4"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 106.79358,158.35917 -3.68438,6.38153"
+           id="path946-8-7-5-1-0-42-9"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.157466px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 67.318099,157.98062 H 106.97071"
+           id="path845-1-4-6-2-5"
+           inkscape:export-xdpi="200"
+           inkscape:export-ydpi="200" />
+      </g>
+    </g>
   </g>
 </svg>
